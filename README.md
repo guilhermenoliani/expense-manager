@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Projeto de Sistema de Finanças
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse Projeto foi feito com tecnologia ReactJS e também Typescript
 
 ## Available Scripts
 
