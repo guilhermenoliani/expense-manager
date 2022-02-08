@@ -27,7 +27,7 @@ const App = () => {
       <C.Body>
         
 
-      <InfoArea/>
+      <InfoArea currentMonth={currentMonth}/>
 
       {/*Area de inserção*/}
 

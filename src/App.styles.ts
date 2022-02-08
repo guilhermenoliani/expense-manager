@@ -5,7 +5,7 @@ export const Container = styled.div`
 `;
 
 export const Header = styled.div`
-    background-color: #5cceee;
+    background-color: #001449;
     height: 150px;
     text-align: center;
 `;
